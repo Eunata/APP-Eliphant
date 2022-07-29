@@ -1,2 +1,2 @@
 # APP Eliphant
- Projeto final de TCC apresentado na ETESP
+ Projeto final de TCC apresentado na ETESP.
